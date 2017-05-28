@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492949448 source:c:\users\86739\documents\1099_buildabinarysearchtree\main.cpp
+	<iostream>
+	<algorithm>
+	<queue>
+

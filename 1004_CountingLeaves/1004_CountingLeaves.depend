@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491813477 source:c:\users\86739\documents\1004_countingleaves\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

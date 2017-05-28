@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495637362 source:c:\users\86739\documents\code1918_caculation\main.cpp
+	<iostream>
+	<string>
+	<stack>
+

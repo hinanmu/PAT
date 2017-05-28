@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492062845 source:c:\users\86739\documents\1025_ranking\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<algorithm>
+

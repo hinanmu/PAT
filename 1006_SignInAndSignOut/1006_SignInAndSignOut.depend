@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491824837 source:c:\users\86739\documents\1006_signinandsignout\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

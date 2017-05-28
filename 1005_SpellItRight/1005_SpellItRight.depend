@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491816421 source:c:\users\86739\documents\1005_spellitright\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<string>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1492769957 source:c:\users\86739\documents\1015reversibleprimes\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+	<math.h>
+	<vector>
+

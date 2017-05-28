@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1491982140 source:c:\users\86739\documents\1010_radix\main.cpp
+	<iostream>
+	<cstring>
+	<math.h>
+	<algorithm>
+	<string.h>
+
